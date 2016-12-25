@@ -1,5 +1,6 @@
 package de.mayflower.samplecode.SimilaritySearchWithLIRE;
 
+import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -9,10 +10,14 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
-import net.semanticmetadata.lire.DocumentBuilder;
-import net.semanticmetadata.lire.DocumentBuilderFactory;
-import net.semanticmetadata.lire.imageanalysis.FCTH;
+
+import net.semanticmetadata.lire.builders.DocumentBuilder;
+import net.semanticmetadata.lire.builders.GlobalDocumentBuilder;
+import net.semanticmetadata.lire.imageanalysis.features.global.FCTH;
 import org.apache.lucene.document.Document;
+
+import javax.imageio.ImageIO;
+import javax.xml.parsers.DocumentBuilderFactory;
 
 public class SimilaritySearchWithLIRE {
 
@@ -39,41 +44,34 @@ public class SimilaritySearchWithLIRE {
 
     public static double[] getFCTHFeatureVector(String fullFilePath) throws FileNotFoundException, IOException {
 
-        DocumentBuilder builder = DocumentBuilderFactory.getFCTHDocumentBuilder();
-        FileInputStream istream = new FileInputStream(fullFilePath);
-        Document doc = builder.createDocument(istream, fullFilePath);
-        istream.close();
-
+//        DocumentBuilder builder = DocumentBuilderFactory.getFCTHDocumentBuilder();
+//
+//        FileInputStream istream = new FileInputStream(fullFilePath);
+//        Document doc = builder.createDocument(istream, fullFilePath);
+//        istream.close();
+        BufferedImage bufferedImage = ImageIO.read(new File(fullFilePath));
+        DocumentBuilder builder  = new GlobalDocumentBuilder();
+        builder.createDocument(bufferedImage,GlobalDocumentBuilder.FIELD_NAME_FCTH);
         FCTH fcthDescriptor = new FCTH();
-        fcthDescriptor.setByteArrayRepresentation(doc.getFields().get(0).getBinaryValue());
-
-        return fcthDescriptor.getDoubleHistogram();
-
-    }
-
-    public static double calculateEuclideanDistance(double[] vector1, double[] vector2) {
-
-        double innerSum = 0.0;
-        for (int i = 0; i < vector1.length; i++) {
-            innerSum += Math.pow(vector1[i] - vector2[i], 2.0);
-        }
-
-        return Math.sqrt(innerSum);
+        fcthDescriptor.extract(bufferedImage);
+//        fcthDescriptor.setByteArrayRepresentation(doc.getFields().get(0).getBinaryValue());
+        return fcthDescriptor.getFeatureVector();
+//        return fcthDescriptor.getDoubleHistogram();
 
     }
 
     public static void main(String[] args) throws FileNotFoundException, IOException {
 
-        if (args.length != 2) {
-            
-            System.out.println("This application requires two parameters: "
-                    + "the name of a directory containing JPEG images, and a file name of a JPEG image.");
-            return;
-            
-        }
+//        if (args.length != 2) {
+//
+//            System.out.println("This application requires two parameters: "
+//                    + "the name of a directory containing JPEG images, and a file name of a JPEG image.");
+//            return;
+//
+//        }
         
-        String imageDatabaseDirectoryName = args[0];
-        String searchImageFilePath = args[1];
+        String imageDatabaseDirectoryName = "/Users/smartkit/git/image-similarity-with-lire/src/main/resources/notablefaces/";//args[0];
+        String searchImageFilePath = "/Users/smartkit/git/image-similarity-with-lire/src/main/resources/notablefaces/1.jpeg";//args[1];
 
         double[] searchImageFeatureVector = getFCTHFeatureVector(searchImageFilePath);
 
@@ -93,8 +91,11 @@ public class SimilaritySearchWithLIRE {
 
         for (String fileName : fileNames) {
 
-            double[] fcthFeatureVector = getFCTHFeatureVector(imageDatabaseDirectoryName + "\\" + fileName);
-            double distanceToSearchImage = calculateEuclideanDistance(fcthFeatureVector, searchImageFeatureVector);
+            double[] fcthFeatureVector = getFCTHFeatureVector(imageDatabaseDirectoryName + fileName);
+            //euclidDistanceToSearchImage
+            double distanceToSearchImage = ImageSimilarity.euclidDistance(fcthFeatureVector, searchImageFeatureVector);
+            //cosinedistanceToSearchImage
+//            double distanceToSearchImage = ImageSimilarity.cosine(fcthFeatureVector, searchImageFeatureVector);
 
             ImageInImageDatabase imageInImageDatabase = new ImageInImageDatabase();
 
