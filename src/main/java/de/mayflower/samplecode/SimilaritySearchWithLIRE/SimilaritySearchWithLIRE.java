@@ -13,7 +13,10 @@ import java.util.Comparator;
 
 import net.semanticmetadata.lire.builders.DocumentBuilder;
 import net.semanticmetadata.lire.builders.GlobalDocumentBuilder;
+import net.semanticmetadata.lire.imageanalysis.features.GlobalFeature;
+import net.semanticmetadata.lire.imageanalysis.features.global.CEDD;
 import net.semanticmetadata.lire.imageanalysis.features.global.FCTH;
+import net.semanticmetadata.lire.imageanalysis.features.local.selfsimilarities.SelfSimilaritiesFeature;
 import org.apache.lucene.document.Document;
 
 import javax.imageio.ImageIO;
@@ -43,21 +46,17 @@ public class SimilaritySearchWithLIRE {
     }
 
     public static double[] getFCTHFeatureVector(String fullFilePath) throws FileNotFoundException, IOException {
-
-//        DocumentBuilder builder = DocumentBuilderFactory.getFCTHDocumentBuilder();
-//
-//        FileInputStream istream = new FileInputStream(fullFilePath);
-//        Document doc = builder.createDocument(istream, fullFilePath);
-//        istream.close();
         BufferedImage bufferedImage = ImageIO.read(new File(fullFilePath));
-        DocumentBuilder builder  = new GlobalDocumentBuilder();
-        builder.createDocument(bufferedImage,GlobalDocumentBuilder.FIELD_NAME_FCTH);
-        FCTH fcthDescriptor = new FCTH();
-        fcthDescriptor.extract(bufferedImage);
-//        fcthDescriptor.setByteArrayRepresentation(doc.getFields().get(0).getBinaryValue());
-        return fcthDescriptor.getFeatureVector();
-//        return fcthDescriptor.getDoubleHistogram();
+        GlobalFeature fcth = new FCTH();
+        fcth.extract(bufferedImage);
+        return fcth.getFeatureVector();
+    }
 
+    public static double[] getCEDDFeatureVector(String fullFilePath) throws FileNotFoundException, IOException {
+        BufferedImage bufferedImage = ImageIO.read(new File(fullFilePath));
+        GlobalFeature cedd = new CEDD();
+        cedd.extract(bufferedImage);
+        return cedd.getFeatureVector();
     }
 
     public static void main(String[] args) throws FileNotFoundException, IOException {
@@ -71,7 +70,7 @@ public class SimilaritySearchWithLIRE {
 //        }
         
         String imageDatabaseDirectoryName = "/Users/smartkit/git/image-similarity-with-lire/src/main/resources/notablefaces/";//args[0];
-        String searchImageFilePath = "/Users/smartkit/git/image-similarity-with-lire/src/main/resources/notablefaces/1.jpeg";//args[1];
+        String searchImageFilePath = "/Users/smartkit/git/image-similarity-with-lire/src/main/resources/notablefaces/3.jpeg";//args[1];
 
         double[] searchImageFeatureVector = getFCTHFeatureVector(searchImageFilePath);
 

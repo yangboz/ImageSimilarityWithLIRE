@@ -2,197 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1e6662c-f6c1-40db-8113-ceefb83d77dc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/notablefaces/1.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/notablefaces/2.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/notablefaces/3.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/notablefaces/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/notablefaces/4.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/notablefaces/5.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sangupta_jopensurf_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nu_pattern_opencv_2_4_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_common_5_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_core_5_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queries_5_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queryparser_5_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_sandbox_5_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimilaritySearchWithLIRE.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/de/mayflower/samplecode/SimilaritySearchWithLIRE/ImageSimilarity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/aggregators/AbstractAggregator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/aggregators/Aggregator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/aggregators/BOVW.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/aggregators/ShapemeAggregator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/aggregators/VLAD.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/builders/AbstractLocalDocumentBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/builders/DocumentBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/builders/GlobalDocumentBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/builders/LocalDocumentBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/builders/SimpleDocumentBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/classifiers/AtomicDouble.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/classifiers/Cluster.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/classifiers/KMeans.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/classifiers/ParallelKMeans.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/filters/LsaFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/filters/RerankFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/Extractor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/FeatureVector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/GenericByteLireFeature.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/GenericDoubleLireFeature.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/GlobalFeature.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/LireFeature.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/LocalFeature.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/LocalFeatureExtractor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/AutoColorCorrelogram.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/BinaryPatternsPyramid.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/CEDD.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/ColorLayout.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/EdgeHistogram.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/FCTH.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/FuzzyColorHistogram.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/FuzzyOpponentHistogram.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/Gabor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/JCD.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/JpegCoefficientHistogram.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/LocalBinaryPatterns.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/LuminanceLayout.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/OpponentHistogram.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/PHOG.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/RotationInvariantLocalBinaryPatterns.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/ScalableColor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/SimpleColorHistogram.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/Tamura.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/cedd/CEDDQuant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/cedd/CompactCEDDQuant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/cedd/Fuzzy10Bin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/cedd/Fuzzy24Bin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/cedd/FuzzyRules.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/cedd/MaskResults.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/cedd/Neighborhood.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/cedd/RGB2HSV.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/centrist/SimpleCentrist.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/centrist/SpatialPyramidCentrist.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/correlogram/DynamicProgrammingAutoCorrelogramExtraction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/correlogram/IAutoCorrelogramFeatureExtractor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/correlogram/MLuxAutoCorrelogramExtraction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/correlogram/NaiveAutoCorrelogramExtraction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/fcth/FCTHQuant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/fcth/Fuzzy10Bin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/fcth/Fuzzy24Bin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/fcth/FuzzyFCTHpart.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/fcth/FuzzyRules.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/fcth/RGB2HSV.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/fcth/SpatiaWaveletMatrix.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/fcth/WaveletMatrix.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/fcth/WaveletMatrixPlus.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/joint/JointHistogram.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/joint/LocalBinaryPatternsAndOpponent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/joint/RankAndOpponent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/mpeg7/ColorLayoutImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/mpeg7/EdgeHistogramImplementation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/mpeg7/ScalableColorImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/spatialpyramid/SPACC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/spatialpyramid/SPCEDD.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/spatialpyramid/SPFCTH.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/spatialpyramid/SPJCD.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/spatialpyramid/SPLBP.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/opencvfeatures/CvSiftExtractor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/opencvfeatures/CvSiftFeature.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/opencvfeatures/CvSurfExtractor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/opencvfeatures/CvSurfFeature.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/selfsimilarities/SelfSimilaritiesExtractor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/selfsimilarities/SelfSimilaritiesFeature.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/selfsimilarities/SelfSimilaritiesOrigExtractor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/selfsimilarities/SelfSimilaritiesOrigFeature.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/selfsimilarities/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/shapecontext/ShapeContext.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/shapecontext/ShapeContextExtractor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/shapecontext/ShapemeHistogram.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/sift/Filter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/sift/FloatArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/sift/FloatArray2D.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/sift/FloatArray2DSIFT.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/sift/FloatArray2DScaleOctave.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/sift/FloatArray2DScaleOctaveDoGDetector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/sift/ImageArrayConverter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/sift/Model.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/sift/Point.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/sift/PointMatch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/sift/SiftExtractor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/sift/SiftFeature.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/sift/TModel2D.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/sift/TRModel2D.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/simple/SimpleExtractor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/simple/SimpleFeature.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/surf/SurfExtractor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/surf/SurfFeature.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/filters/CannyEdgeDetector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/filters/DecimateDownSampler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/filters/FastBilateralFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/filters/IndexedIntArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/utils/ColorConversion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/visualattention/StentifordModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/indexers/LireCustomCodec.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/indexers/LireFeatureStoredFieldFormat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/indexers/hashing/BitSampling.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/indexers/hashing/LocalitySensitiveHashing.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/indexers/hashing/LshBitSampling.obj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/indexers/hashing/MetricSpaces.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/indexers/parallel/ExtractorItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/indexers/parallel/ImagePreprocessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/indexers/parallel/ParallelIndexer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/indexers/parallel/WorkItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/indexers/tools/Extractor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/indexers/tools/HashingIndexor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/indexers/tools/Indexor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/indexers/tools/ParallelExtractor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/indexers/tools/ProximityHashingIndexor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/package.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/AbstractImageSearcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/BitSamplingImageSearcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/FastOpponentImageSearcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/GenericDocValuesImageSearcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/GenericFastImageSearcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/ImageDuplicates.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/ImageSearchHits.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/ImageSearcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/ImageSearcherUsingWSs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/LshImageSearcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/MetricSpacesImageSearcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/SearchHitsFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/SimpleImageDuplicates.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/SimpleImageSearchHits.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/SimpleResult.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/VisualWordsImageSearcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/custom/SingleNddCeddImageSearcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/custom/TopDocsImageSearcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/forevaluations/GenericFastImageSearcherForEvaluation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/forevaluations/ImageSearchHitsForEvaluation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/forevaluations/ImageSearcherUsingWSsForEvaluation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/forevaluations/SearchItemForEvaluation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/forevaluations/SimpleResultForEvaluation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/forevaluations/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/utils/ConversionUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/utils/FileUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/utils/ImageUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/utils/LuceneUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/utils/MetricsUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/utils/SerializationUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/utils/StatsUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/utils/StopWatch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/utils/cv/KMeans.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/utils/cv/PixelClustering.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE$1.class" afterPath="$PROJECT_DIR$/target/classes/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE$ImageComparator.class" afterPath="$PROJECT_DIR$/target/classes/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE$ImageComparator.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE$ImageInImageDatabase.class" afterPath="$PROJECT_DIR$/target/classes/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE$ImageInImageDatabase.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE.class" afterPath="$PROJECT_DIR$/target/classes/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/de/mayflower/lsh/imagesimilaritywithlire/AppTest.class" afterPath="$PROJECT_DIR$/target/test-classes/de/mayflower/lsh/imagesimilaritywithlire/AppTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE.java" afterPath="$PROJECT_DIR$/src/main/java/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE.java" />
     </list>
     <ignored path="SimilaritySearchWithLIRE.iws" />
@@ -215,33 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CvSurfExtractor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/opencvfeatures/CvSurfExtractor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimilaritySearchWithLIRE.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SimilaritySearchWithLIRE.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+            <state relative-caret-position="457">
+              <caret line="92" column="48" selection-start-line="92" selection-start-column="44" selection-end-line="92" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -249,73 +41,103 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DocumentBuilder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/builders/DocumentBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="129" column="0" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
-              <folding />
-            </state>
+      <file leaf-file-name="1.jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/notablefaces/1.jpeg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FCTH.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/FCTH.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="634">
-              <caret line="423" column="24" selection-start-line="423" selection-start-column="15" selection-end-line="423" selection-end-column="24" />
-              <folding />
-            </state>
+      <file leaf-file-name="2.jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/notablefaces/2.jpeg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tamura.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/Tamura.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
-              <folding />
-            </state>
+      <file leaf-file-name="3.jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/notablefaces/3.jpeg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CEDD.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/CEDD.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="63" column="13" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
-              <folding />
-            </state>
+      <file leaf-file-name="3.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/notablefaces/3.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SurfFeature.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/surf/SurfFeature.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="56" column="24" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="24" />
-              <folding />
-            </state>
+      <file leaf-file-name="4.jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/notablefaces/4.jpeg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImageSimilarity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/de/mayflower/samplecode/SimilaritySearchWithLIRE/ImageSimilarity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-              <folding />
-            </state>
+      <file leaf-file-name="5.jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/notablefaces/5.jpeg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MetricSpaces.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/indexers/hashing/MetricSpaces.java">
+      <file leaf-file-name="SelfSimilaritiesFeature.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/selfsimilarities/SelfSimilaritiesFeature.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1290">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#0#3983#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#3026#3027#0" expanded="false" />
+                <element signature="e#3088#3089#0" expanded="false" />
+                <element signature="e#3145#3146#0" expanded="false" />
+                <element signature="e#3207#3208#0" expanded="false" />
+                <element signature="e#3418#3419#0" expanded="false" />
+                <element signature="e#3459#3460#0" expanded="false" />
+                <element signature="e#3509#3510#0" expanded="false" />
+                <element signature="e#3576#3577#0" expanded="false" />
+                <element signature="e#3618#3619#0" expanded="false" />
+                <element signature="e#3642#3643#0" expanded="false" />
+                <element signature="e#3684#3685#0" expanded="false" />
+                <element signature="e#3708#3709#0" expanded="false" />
+                <element signature="e#3753#3754#0" expanded="false" />
+                <element signature="e#3780#3781#0" expanded="false" />
+                <element signature="e#3839#3840#0" expanded="false" />
+                <element signature="e#3893#3894#0" expanded="false" />
+                <element signature="e#3949#3950#0" expanded="false" />
+                <element signature="e#3979#3980#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SelfSimilaritiesExtractor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/selfsimilarities/SelfSimilaritiesExtractor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="53" column="65" selection-start-line="53" selection-start-column="65" selection-end-line="53" selection-end-column="65" />
+              <folding>
+                <element signature="e#0#17752#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#17587#17588#0" expanded="false" />
+                <element signature="e#17618#17619#0" expanded="false" />
+                <element signature="e#17697#17698#0" expanded="false" />
+                <element signature="e#17749#17750#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LocalFeatureExtractor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/LocalFeatureExtractor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#2057#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -344,9 +166,9 @@
         <option value="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/utils/FileUtils.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/de/mayflower/samplecode/SimilaritySearchWithLIRE/ImageSimilarity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/builders/DocumentBuilder.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/IFACEF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE.java" />
       </list>
     </option>
   </component>
@@ -363,9 +185,26 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="61" />
     <option name="y" value="23" />
-    <option name="width" value="1890" />
+    <option name="width" value="1886" />
     <option name="height" value="1057" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -392,6 +231,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -747,6 +589,174 @@
               <option name="myItemId" value="local" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simple" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image-similarity-with-lire" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image-similarity-with-lire" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lire" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imageanalysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image-similarity-with-lire" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image-similarity-with-lire" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lire" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imageanalysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shapecontext" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image-similarity-with-lire" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image-similarity-with-lire" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lire" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imageanalysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="selfsimilarities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image-similarity-with-lire" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image-similarity-with-lire" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lire" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imageanalysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencvfeatures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -814,15 +824,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/simpleapplication-2016-11-24" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -1186,7 +1193,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1890" height="1057" extended-state="6" />
+    <frame x="61" y="23" width="1886" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Java2SQL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1201,7 +1208,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="SQL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1211,7 +1218,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1238,7 +1245,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="17" />
+      <option name="time" value="22" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1251,31 +1258,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/1.3.2/commons-io-1.3.2.jar!/org/apache/commons/io/filefilter/SuffixFileFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1341,12 +1323,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/filters/LsaFilter.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/opencvfeatures/CvSiftExtractor.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/builders/SimpleDocumentBuilder.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/builders/LocalDocumentBuilder.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/builders/GlobalDocumentBuilder.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/shapecontext/ShapeContextExtractor.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/surf/SurfExtractor.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/utils/LuceneUtils.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/VisualWordsImageSearcher.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/searchers/MetricSpacesImageSearcher.java" />
@@ -1354,7 +1333,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1362,15 +1340,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
           <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#6118#0" expanded="false" />
-            <element signature="e#4753#4754#0" expanded="false" />
-            <element signature="e#4820#4821#0" expanded="false" />
-            <element signature="e#4858#4859#0" expanded="false" />
-            <element signature="e#4897#4898#0" expanded="false" />
-            <element signature="e#4938#4939#0" expanded="false" />
-            <element signature="e#4977#4978#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1378,7 +1347,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-184">
           <caret line="54" column="33" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1386,9 +1354,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="41">
           <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1396,9 +1361,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1406,9 +1368,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1290">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1416,64 +1375,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="505">
           <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/notablefaces/*-0.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/de/mayflower/samplecode/SimilaritySearchWithLIRE/ImageSimilarity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/notablefaces/2.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/notablefaces/1.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/builders/DocumentBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="129" column="0" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/IFACEF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="142" column="21" selection-start-line="142" selection-start-column="14" selection-end-line="142" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/notablefaces/*-0.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/IFACEF.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/FCTH.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="634">
           <caret line="423" column="24" selection-start-line="423" selection-start-column="15" selection-end-line="423" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1481,15 +1391,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
           <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/global/CEDD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="63" column="13" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="225">
+          <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/GlobalFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -1497,7 +1412,248 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="56" column="24" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="24" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/surf/SurfExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/shapecontext/ShapeContextExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/shapecontext/ShapemeHistogram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/mayflower/samplecode/SimilaritySearchWithLIRE/ImageSimilarity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/builders/DocumentBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="147" column="13" selection-start-line="147" selection-start-column="13" selection-end-line="147" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#5821#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/simple/SimpleExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="67" column="13" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#13160#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4054#4055#0" expanded="false" />
+            <element signature="e#4099#4100#0" expanded="false" />
+            <element signature="e#5747#5748#0" expanded="false" />
+            <element signature="e#5784#5785#0" expanded="false" />
+            <element signature="e#5863#5864#0" expanded="false" />
+            <element signature="e#5905#5906#0" expanded="false" />
+            <element signature="e#5974#5975#0" expanded="false" />
+            <element signature="e#6015#6016#0" expanded="false" />
+            <element signature="e#6062#6063#0" expanded="false" />
+            <element signature="e#6095#6096#0" expanded="false" />
+            <element signature="e#12561#12562#0" expanded="false" />
+            <element signature="e#12593#12594#0" expanded="false" />
+            <element signature="e#12631#12632#0" expanded="false" />
+            <element signature="e#12665#12666#0" expanded="false" />
+            <element signature="e#12993#12994#0" expanded="false" />
+            <element signature="e#13028#13029#0" expanded="false" />
+            <element signature="e#13057#13058#0" expanded="false" />
+            <element signature="e#13089#13090#0" expanded="false" />
+            <element signature="e#13118#13119#0" expanded="false" />
+            <element signature="e#13150#13151#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/simple/SimpleFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#4279#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2902#2903#0" expanded="false" />
+            <element signature="e#2936#2937#0" expanded="false" />
+            <element signature="e#2986#2987#0" expanded="false" />
+            <element signature="e#3018#3019#0" expanded="false" />
+            <element signature="e#3650#3651#0" expanded="false" />
+            <element signature="e#3677#3678#0" expanded="false" />
+            <element signature="e#3995#3996#0" expanded="false" />
+            <element signature="e#4019#4020#0" expanded="false" />
+            <element signature="e#4061#4062#0" expanded="false" />
+            <element signature="e#4085#4086#0" expanded="false" />
+            <element signature="e#4130#4131#0" expanded="false" />
+            <element signature="e#4157#4158#0" expanded="false" />
+            <element signature="e#4238#4239#0" expanded="false" />
+            <element signature="e#4275#4276#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/opencvfeatures/CvSiftFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#4606#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#3277#3278#0" expanded="false" />
+            <element signature="e#3352#3353#0" expanded="false" />
+            <element signature="e#3540#3541#0" expanded="false" />
+            <element signature="e#3615#3616#0" expanded="false" />
+            <element signature="e#3665#3666#0" expanded="false" />
+            <element signature="e#3727#3728#0" expanded="false" />
+            <element signature="e#3784#3785#0" expanded="false" />
+            <element signature="e#3846#3847#0" expanded="false" />
+            <element signature="e#4047#4048#0" expanded="false" />
+            <element signature="e#4077#4078#0" expanded="false" />
+            <element signature="e#4129#4130#0" expanded="false" />
+            <element signature="e#4160#4161#0" expanded="false" />
+            <element signature="e#4210#4211#0" expanded="false" />
+            <element signature="e#4266#4267#0" expanded="false" />
+            <element signature="e#4308#4309#0" expanded="false" />
+            <element signature="e#4332#4333#0" expanded="false" />
+            <element signature="e#4374#4375#0" expanded="false" />
+            <element signature="e#4398#4399#0" expanded="false" />
+            <element signature="e#4443#4444#0" expanded="false" />
+            <element signature="e#4470#4471#0" expanded="false" />
+            <element signature="e#4559#4560#0" expanded="false" />
+            <element signature="e#4603#4604#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/opencvfeatures/CvSiftExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#7774#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#3004#3005#0" expanded="false" />
+            <element signature="e#3026#3027#0" expanded="false" />
+            <element signature="e#4590#4591#0" expanded="false" />
+            <element signature="e#4621#4622#0" expanded="false" />
+            <element signature="e#4700#4701#0" expanded="false" />
+            <element signature="e#4742#4743#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/selfsimilarities/SelfSimilaritiesFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#3983#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#3026#3027#0" expanded="false" />
+            <element signature="e#3088#3089#0" expanded="false" />
+            <element signature="e#3145#3146#0" expanded="false" />
+            <element signature="e#3207#3208#0" expanded="false" />
+            <element signature="e#3418#3419#0" expanded="false" />
+            <element signature="e#3459#3460#0" expanded="false" />
+            <element signature="e#3509#3510#0" expanded="false" />
+            <element signature="e#3576#3577#0" expanded="false" />
+            <element signature="e#3618#3619#0" expanded="false" />
+            <element signature="e#3642#3643#0" expanded="false" />
+            <element signature="e#3684#3685#0" expanded="false" />
+            <element signature="e#3708#3709#0" expanded="false" />
+            <element signature="e#3753#3754#0" expanded="false" />
+            <element signature="e#3780#3781#0" expanded="false" />
+            <element signature="e#3839#3840#0" expanded="false" />
+            <element signature="e#3893#3894#0" expanded="false" />
+            <element signature="e#3949#3950#0" expanded="false" />
+            <element signature="e#3979#3980#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/selfsimilarities/SelfSimilaritiesExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="53" column="65" selection-start-line="53" selection-start-column="65" selection-end-line="53" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#17752#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#17587#17588#0" expanded="false" />
+            <element signature="e#17618#17619#0" expanded="false" />
+            <element signature="e#17697#17698#0" expanded="false" />
+            <element signature="e#17749#17750#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/LocalFeatureExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#2057#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/notablefaces/1.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/notablefaces/2.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/notablefaces/3.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/notablefaces/3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/notablefaces/5.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/notablefaces/4.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="92" column="48" selection-start-line="92" selection-start-column="44" selection-end-line="92" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
