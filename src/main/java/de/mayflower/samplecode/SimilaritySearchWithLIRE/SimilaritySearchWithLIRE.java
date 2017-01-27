@@ -59,8 +59,14 @@ public class SimilaritySearchWithLIRE {
         return cedd.getFeatureVector();
     }
 
-    public static void main(String[] args) throws FileNotFoundException, IOException {
+    public static double[] getGlobalFeatureVector(String fullFilePath, Class featureClass) throws FileNotFoundException, IOException,ClassNotFoundException,IllegalAccessException,InstantiationException {
+        BufferedImage bufferedImage = ImageIO.read(new File(fullFilePath));
+        GlobalFeature globalFeature = (GlobalFeature) Class.forName(featureClass.getName()).newInstance();
+        globalFeature.extract(bufferedImage);
+        return globalFeature.getFeatureVector();
+    }
 
+    public static void main(String[] args) throws FileNotFoundException, IOException,ClassNotFoundException,IllegalAccessException,InstantiationException {
 //        if (args.length != 2) {
 //
 //            System.out.println("This application requires two parameters: "
@@ -72,7 +78,7 @@ public class SimilaritySearchWithLIRE {
         String imageDatabaseDirectoryName = "/Users/smartkit/git/image-similarity-with-lire/src/main/resources/notablefaces/";//args[0];
         String searchImageFilePath = "/Users/smartkit/git/image-similarity-with-lire/src/main/resources/notablefaces/3.jpeg";//args[1];
 
-        double[] searchImageFeatureVector = getFCTHFeatureVector(searchImageFilePath);
+        double[] searchImageFeatureVector = getGlobalFeatureVector(searchImageFilePath,FCTH.class);
 
         System.out.println("Search image FCTH vector: " + Arrays.toString(searchImageFeatureVector));
 

@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1e6662c-f6c1-40db-8113-ceefb83d77dc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE$1.class" afterPath="$PROJECT_DIR$/target/classes/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE$ImageComparator.class" afterPath="$PROJECT_DIR$/target/classes/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE$ImageComparator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE$ImageInImageDatabase.class" afterPath="$PROJECT_DIR$/target/classes/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE$ImageInImageDatabase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE.class" afterPath="$PROJECT_DIR$/target/classes/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE.java" afterPath="$PROJECT_DIR$/src/main/java/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE.java" />
     </list>
@@ -32,8 +28,8 @@
       <file leaf-file-name="SimilaritySearchWithLIRE.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="92" column="48" selection-start-line="92" selection-start-column="44" selection-end-line="92" selection-end-column="48" />
+            <state relative-caret-position="367">
+              <caret line="68" column="84" selection-start-line="68" selection-start-column="84" selection-end-line="68" selection-end-column="84" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,28 +84,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#3983#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#3026#3027#0" expanded="false" />
-                <element signature="e#3088#3089#0" expanded="false" />
-                <element signature="e#3145#3146#0" expanded="false" />
-                <element signature="e#3207#3208#0" expanded="false" />
-                <element signature="e#3418#3419#0" expanded="false" />
-                <element signature="e#3459#3460#0" expanded="false" />
-                <element signature="e#3509#3510#0" expanded="false" />
-                <element signature="e#3576#3577#0" expanded="false" />
-                <element signature="e#3618#3619#0" expanded="false" />
-                <element signature="e#3642#3643#0" expanded="false" />
-                <element signature="e#3684#3685#0" expanded="false" />
-                <element signature="e#3708#3709#0" expanded="false" />
-                <element signature="e#3753#3754#0" expanded="false" />
-                <element signature="e#3780#3781#0" expanded="false" />
-                <element signature="e#3839#3840#0" expanded="false" />
-                <element signature="e#3893#3894#0" expanded="false" />
-                <element signature="e#3949#3950#0" expanded="false" />
-                <element signature="e#3979#3980#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -122,6 +97,8 @@
               <folding>
                 <element signature="e#0#17752#0" expanded="false" />
                 <element signature="imports" expanded="false" />
+                <element signature="e#11357#11364#0" expanded="false" />
+                <element signature="e#11645#11653#0" expanded="false" />
                 <element signature="e#17587#17588#0" expanded="false" />
                 <element signature="e#17618#17619#0" expanded="false" />
                 <element signature="e#17697#17698#0" expanded="false" />
@@ -185,7 +162,6 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="61" />
     <option name="y" value="23" />
     <option name="width" value="1886" />
     <option name="height" value="1057" />
@@ -231,9 +207,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -824,6 +799,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1193,7 +1169,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="61" y="23" width="1886" height="1057" extended-state="0" />
+    <frame x="0" y="23" width="1886" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Java2SQL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1209,7 +1185,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="SQL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1440,9 +1416,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1450,10 +1423,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1560">
           <caret line="147" column="13" selection-start-line="147" selection-start-column="13" selection-end-line="147" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#5821#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1563,56 +1532,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/selfsimilarities/SelfSimilaritiesFeature.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+        <state relative-caret-position="367">
+          <caret line="68" column="84" selection-start-line="68" selection-start-column="84" selection-end-line="68" selection-end-column="84" />
           <folding>
-            <element signature="e#0#3983#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#3026#3027#0" expanded="false" />
-            <element signature="e#3088#3089#0" expanded="false" />
-            <element signature="e#3145#3146#0" expanded="false" />
-            <element signature="e#3207#3208#0" expanded="false" />
-            <element signature="e#3418#3419#0" expanded="false" />
-            <element signature="e#3459#3460#0" expanded="false" />
-            <element signature="e#3509#3510#0" expanded="false" />
-            <element signature="e#3576#3577#0" expanded="false" />
-            <element signature="e#3618#3619#0" expanded="false" />
-            <element signature="e#3642#3643#0" expanded="false" />
-            <element signature="e#3684#3685#0" expanded="false" />
-            <element signature="e#3708#3709#0" expanded="false" />
-            <element signature="e#3753#3754#0" expanded="false" />
-            <element signature="e#3780#3781#0" expanded="false" />
-            <element signature="e#3839#3840#0" expanded="false" />
-            <element signature="e#3893#3894#0" expanded="false" />
-            <element signature="e#3949#3950#0" expanded="false" />
-            <element signature="e#3979#3980#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/selfsimilarities/SelfSimilaritiesExtractor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="53" column="65" selection-start-line="53" selection-start-column="65" selection-end-line="53" selection-end-column="65" />
-          <folding>
-            <element signature="e#0#17752#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#17587#17588#0" expanded="false" />
-            <element signature="e#17618#17619#0" expanded="false" />
-            <element signature="e#17697#17698#0" expanded="false" />
-            <element signature="e#17749#17750#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/LocalFeatureExtractor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#2057#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1637,22 +1562,47 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/notablefaces/5.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/notablefaces/4.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/de/mayflower/samplecode/SimilaritySearchWithLIRE/SimilaritySearchWithLIRE.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/notablefaces/5.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/selfsimilarities/SelfSimilaritiesFeature.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="92" column="48" selection-start-line="92" selection-start-column="44" selection-end-line="92" selection-end-column="48" />
+        <state relative-caret-position="180">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/local/selfsimilarities/SelfSimilaritiesExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="53" column="65" selection-start-line="53" selection-start-column="65" selection-end-line="53" selection-end-column="65" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#17752#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#11357#11364#0" expanded="false" />
+            <element signature="e#11645#11653#0" expanded="false" />
+            <element signature="e#17587#17588#0" expanded="false" />
+            <element signature="e#17618#17619#0" expanded="false" />
+            <element signature="e#17697#17698#0" expanded="false" />
+            <element signature="e#17749#17750#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/semanticmetadata/lire/imageanalysis/features/LocalFeatureExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#2057#0" expanded="false" />
           </folding>
         </state>
       </provider>
